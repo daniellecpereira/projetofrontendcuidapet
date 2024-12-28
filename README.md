@@ -39,7 +39,7 @@ Simone Alves Nogueira
 
 # Hospedagem
 
-https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t3-cuidapet/
+https://pmv-ads-2024-2-e1-proj-web-t3-cuidapet.vercel.app/index.html
 
 # Código-Fonte
 
